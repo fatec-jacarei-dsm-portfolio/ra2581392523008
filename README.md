@@ -32,4 +32,4 @@ Sistema acadêmico em desenvolvimento, simulando funcionalidades reais de uma se
 
 📌 Objetivo  
 
-Este repositório tem como objetivo apresentar minha evolução acadêmica ao longo do curso de Desenvolvimento de Software Multiplataforma, reu
+Este repositório tem como objetivo apresentar minha evolução acadêmica ao longo do curso de Desenvolvimento de Software Multiplataforma, reunindo projetos práticos e conhecimentos adquiridos durante a graduação.
