@@ -9,7 +9,7 @@ Repositório do aluno CAIO HENRIQUE MELO MARTINS JULIÃO.
 📅 Turma: 2º Semestre de 2025    
 
 🌐 Portfólio Online  
-🔗  https://github.com/fatec-jacarei-dsm-portfolio/ra2581392523008/ 
+🔗  https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523008/ 
 
 📚 Projetos Acadêmicos  
 
