@@ -14,7 +14,7 @@ Repositório do aluno CAIO HENRIQUE MELO MARTINS JULIÃO.
 📚 Projetos Acadêmicos  
 
 🤖 GitHub(1º Semestre)  
-Projeto desenvolvido no primeiro semestre da FATEC com foco em soluções IoT para detecção de quedas.  
+Projeto desenvolvido na faculdade de tecnologia FATEC Jacareí com objetivo de oferecer uma página web para a equipe de sensoriamento AGRIRS Lab do INPE.  
 🔗 https://github.com/devmaster-organizations/inpe-sensoriamentoremoto  
 
 🏫 Secretaria Acadêmica (2º Semestre)  
